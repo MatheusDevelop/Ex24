@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\bin\Debug\netcoreapp3.1\ex24.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\bin\Debug\netcoreapp3.1\ex24.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\bin\Debug\netcoreapp3.1\ex24.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\bin\Debug\netcoreapp3.1\ex24.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\bin\Debug\netcoreapp3.1\ex24.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\bin\Debug\netcoreapp3.1\ex24.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex24\obj\Debug\netcoreapp3.1\ex24.genruntimeconfig.cache
