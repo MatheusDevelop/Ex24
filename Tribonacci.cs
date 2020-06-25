@@ -31,8 +31,14 @@ namespace ex24
             
             
         }
-        // Copia e cola la
-        // msm fita no program
-        // copia a classe toda , da control A
-   }
+        // public int trib(int n1,int n2,int n3,int vezes){
+        //     int res;
+        //     if(vezes>0){
+        //         trib(res,,1,vezes-1);
+        //         res=n1 + n2 + n3;
+        //     }
+        //     // Mano recursividade q ele ensinou hj ia ajudar 
+        //     // Vamo la
+        // }
+   }              //VAMO LIGA FICA MAIS FACIL
 }

@@ -7,6 +7,9 @@ namespace ex24
         static void Main(string[] args)
         {
             Tribonnaci conta = new Tribonnaci(10);
+            Fatorial fat = new Fatorial();
+            Console.WriteLine("---------------------------------");
+            Console.WriteLine(fat.fat(25));
             
         }
     }
