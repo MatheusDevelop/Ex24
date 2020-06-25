@@ -6,6 +6,8 @@ namespace ex24
     {
         static void Main(string[] args)
         {   
+           Console.BackgroundColor=ConsoleColor.DarkBlue;
+           Console.ForegroundColor=ConsoleColor.DarkYellow;
             Console.WriteLine("\nTribonnaci \n");
 
             Tribonnaci conta = new Tribonnaci(10);
@@ -17,6 +19,7 @@ namespace ex24
             
             Console.WriteLine("\nFatorial \n");
             Console.WriteLine(fat.fat(25));
+            Console.ResetColor();
             
         }
     }
